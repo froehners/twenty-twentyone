@@ -153,4 +153,3 @@ We'll expand the next rounds of unmoderated and moderated tests to include more 
 
 * **Timeline:** \~4 weeks in Q3 2020, Phase 2 is scheduled for Q1 2021
 * **Team composition:** Copywriter, attorney, product marketer and 2 product designers
-* **Role:** Research, Product/UX Design
