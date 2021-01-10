@@ -1,6 +1,6 @@
 ---
 date: 2021-01-10
-thumbnail: ''
+thumbnail: "/uploads/combophtb.jpg"
 title: Exploring How to Recommend IP Protection
 categories:
 - Research
